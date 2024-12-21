@@ -1,4 +1,3 @@
-Je vais enrichir le rapport précédent avec tous ces détails dans le format demandé.
 
 <div align="center">
 
